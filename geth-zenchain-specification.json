@@ -11,12 +11,14 @@
     "istanbulBlock": 0,
     "muirGlacierBlock": 0,
     "berlinBlock": 0,
-    "londonBlock": 0
+    "londonBlock": 0,
+    "ethash": {}
   },
-  "nonce": "0x0",
+  "nonce": "0x0000000000000042",
   "timestamp": "0x0",
-  "extraData": "0x0",
-  "gasLimit": "0x47868c0",
+  "extraData": "0x00",
+  "gasLimit": "0x1C9C380",
+  "difficulty": "0x4000",
   "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
   "coinbase": "0x0000000000000000000000000000000000000000",
   "alloc": {
@@ -26,7 +28,9 @@
     "0x773539d4ac0e786233d90a233654ccee26a613d9": {"balance": "1000000000000000000000000"},
     "0xff64d3f6efe2317ee2807d223a0bdc4c0c49dfdb": {"balance": "1000000000000000000000000"},
     "0xc0f0f4ab324c46e55d02d0033343b4be8a55532d": {"balance": "1000000000000000000000000"},
-
+    "0x1000000000000000000000000000000000000001": {"balance": "1000000000000000000000000"},
+    "0x6be02d1d3665660d22ff9624b7be0551ee1ac91b": {"balance": "1000000000000000000000000"},
+    "0xd43593c715fdd31c61141abd04a99fd6822c8558": {"balance": "1000000000000000000000000"}
   },
   "number": "0x0",
   "gasUsed": "0x0",
